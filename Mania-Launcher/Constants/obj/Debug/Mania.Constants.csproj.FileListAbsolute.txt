@@ -1,0 +1,5 @@
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Constants\bin\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Constants\bin\Debug\Mania.Constants.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Constants\obj\Debug\Mania.Constants.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Constants\obj\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Constants\obj\Debug\Mania.Constants.pdb

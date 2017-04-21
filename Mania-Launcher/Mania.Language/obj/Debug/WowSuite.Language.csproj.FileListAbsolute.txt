@@ -1,0 +1,19 @@
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\bin\Debug\Mania.Language.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\bin\Debug\Mania.Language.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\obj\Debug\Mania.Language.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\obj\Debug\Mania.Language.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\obj\Debug\Mania.Language.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\bin\Debug\Mania.Language.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\bin\Debug\Mania.Language.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\obj\Debug\Mania.Language.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Language\obj\Debug\Mania.Language.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Language\bin\Debug\Nostale.Language.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Language\bin\Debug\Nostale.Language.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Language\obj\Debug\Nostale.Language.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Language\obj\Debug\Nostale.Language.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Language\obj\Debug\Mania.Language.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Language\bin\Debug\Mania.Language.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Language\bin\Debug\Mania.Language.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Language\obj\Debug\Mania.Language.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Language\obj\Debug\Mania.Language.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Language\obj\Debug\Mania.Language.pdb

@@ -1,0 +1,228 @@
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe.manifest
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Launcher.application
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Nostale.Constants.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Nostale.Language.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Nostale.Utils.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Nostale.Constants.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Nostale.Language.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\bin\Debug\Nostale.Utils.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Mania.Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Animation\LoaderSpinner.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Controls\WelcomeBlock.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Tooltip.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\App.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Animation\ButtonLoader.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Animation\LoaderSpinner.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Controls\NewsTab.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Controls\WelcomeBlock.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\LoginDialog.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\PopupDialog.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\App.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Animation\ButtonLoader.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Controls\NewsTab.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\LoginDialog.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\NotifyIconResources.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\MainWindow.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Dialogs\PopupDialog.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\SettingsWindow.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Launcher.g.resources
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Mania.Launcher.Properties.Resources.resources
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Mania.Launcher.csproj.GenerateResource.Cache
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Launcher.TrustInfo.xml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Launcher.exe.manifest
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Launcher.application
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Launcher.exe
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe.config
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe.manifest
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.application
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\Mania.Language.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\Mania.Utils.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\Mania.Constants.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\Mania.Language.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\bin\Debug\Mania.Utils.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Mania.Launcher.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Animation\LoaderSpinner.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Controls\WelcomeBlock.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Tooltip.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\App.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Animation\ButtonLoader.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Animation\LoaderSpinner.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Controls\NewsTab.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Controls\WelcomeBlock.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\LoginDialog.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialog.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\App.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher_MarkupCompile.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher_MarkupCompile.lref
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Animation\ButtonLoader.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Controls\NewsTab.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\LoginDialog.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\NotifyIconResources.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MainWindow.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialog.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\SettingsWindow.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.g.resources
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Mania.Launcher.Properties.Resources.resources
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\Mania.Launcher.csproj.GenerateResource.Cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.TrustInfo.xml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.exe.manifest
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.application
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.exe
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe.config
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe.manifest
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.application
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\MapleStory Mania Launcher.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\Mania.Language.dll
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\Mania.Utils.dll
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\Mania.Constants.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\Mania.Language.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\bin\Debug\Mania.Utils.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Mania.Launcher.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Animation\LoaderSpinner.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Controls\WelcomeBlock.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Tooltip.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\App.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Animation\ButtonLoader.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Animation\LoaderSpinner.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Controls\NewsTab.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Controls\WelcomeBlock.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\LoginDialog.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialog.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\App.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher_MarkupCompile.cache
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher_MarkupCompile.lref
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Animation\ButtonLoader.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Controls\NewsTab.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\LoginDialog.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\NotifyIconResources.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MainWindow.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Dialogs\PopupDialog.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\SettingsWindow.baml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.g.resources
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Mania.Launcher.Properties.Resources.resources
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\Mania.Launcher.csproj.GenerateResource.Cache
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.TrustInfo.xml
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.exe.manifest
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.application
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.exe
+C:\Users\felli\Desktop\Source Mania Launcher\nostale-launcher\Launcher\obj\Debug\MapleStory Mania Launcher.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe.config
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe.manifest
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.application
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Language.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Utils.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Constants.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Language.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Utils.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Mania.Launcher.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\LoaderSpinner.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\WelcomeBlock.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Tooltip.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\App.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\ButtonLoader.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\LoaderSpinner.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\NewsTab.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\WelcomeBlock.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\LoginDialog.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialog.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\App.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher_MarkupCompile.cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher_MarkupCompile.lref
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\ButtonLoader.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\NewsTab.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\LoginDialog.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\NotifyIconResources.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MainWindow.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialog.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\SettingsWindow.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.g.resources
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Mania.Launcher.Properties.Resources.resources
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Mania.Launcher.csproj.GenerateResource.Cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.TrustInfo.xml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.exe.manifest
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.application
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.exe
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.pdb

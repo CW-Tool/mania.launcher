@@ -1,0 +1,5 @@
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.Language\bin\Debug\Mania.Language.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.Language\bin\Debug\Mania.Language.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.Language\obj\Debug\Mania.Language.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.Language\obj\Debug\Mania.Language.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.Language\obj\Debug\Mania.Language.pdb

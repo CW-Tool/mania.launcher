@@ -1,0 +1,28 @@
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.csprojResolveAssemblyReference.cache
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.pdb
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Utils.dll
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Utils.pdb
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Constants.dll
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Constants.pdb
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.dll
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\bin\Release\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.csprojResolveAssemblyReference.cache
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\obj\Release\Mania.Utils.pdb

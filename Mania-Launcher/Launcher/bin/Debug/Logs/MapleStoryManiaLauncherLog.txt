@@ -1,0 +1,29 @@
+21/04/2017 15:24:47.5786384: 
+Method: clearLogs. String: 564.
+File: C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\MainWindow.xaml.cs
+Message: Удаление старых Log файлов
+________________________
+
+21/04/2017 15:24:47.6221673: 
+Method: . String: 0.
+File: 
+Message: Message: Referência de objeto não definida para uma instância de um objeto.;
+Source: MapleStory Mania Launcher;
+TargetSite: Void MoveNext()
+InnerException: ;
+StackTrace: 
+   em Mania.Launcher.MainWindow.<CheckAndUpdate>d__11.MoveNext() na C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\MainWindow.xaml.cs:linha 183;
+________________________
+
+21/04/2017 15:24:56.6352991: 
+Method: Translate. String: 218.
+File: C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\SettingsWindow.xaml.cs
+Message: Завершен метод перевода формы с настройками
+________________________
+
+21/04/2017 15:24:56.6439890: 
+Method: LoadData. String: 173.
+File: C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\SettingsWindow.xaml.cs
+Message: Загрузка пользовательских данных
+________________________
+

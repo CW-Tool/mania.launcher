@@ -1,0 +1,66 @@
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Constants.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.Constants.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.UnitTests\bin\Debug\Nostale.Utils.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.UnitTests\bin\Debug\Nostale.Utils.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\bin\Debug\Mania.Utils.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb

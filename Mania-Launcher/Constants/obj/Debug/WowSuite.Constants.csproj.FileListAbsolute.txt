@@ -1,0 +1,45 @@
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.pdb
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.dll
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.pdb
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.dll
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Constants\bin\Debug\Mania.Constants.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Constants\bin\Debug\Nostale.Constants.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Constants\bin\Debug\Nostale.Constants.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Constants\obj\Debug\Nostale.Constants.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Constants\obj\Debug\Nostale.Constants.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Constants\obj\Debug\Mania.Constants.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Constants\bin\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Constants\bin\Debug\Mania.Constants.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Constants\obj\Debug\Mania.Constants.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Constants\obj\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Constants\obj\Debug\Mania.Constants.pdb

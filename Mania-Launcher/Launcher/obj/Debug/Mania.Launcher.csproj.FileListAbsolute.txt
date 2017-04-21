@@ -1,0 +1,57 @@
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe.config
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe.manifest
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.application
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.exe
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\MapleStory Mania Launcher.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Language.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Utils.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Constants.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Language.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\bin\Debug\Mania.Utils.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Mania.Launcher.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\LoaderSpinner.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\WelcomeBlock.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\NewsRotator.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Tooltip.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Buttons.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Effects.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Progressbar.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Resources\Dictionaries\Scroll.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\App.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\ButtonLoader.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\LoaderSpinner.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\NewsTab.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\WelcomeBlock.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\LoginDialog.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\NewsRotator.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialog.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\SettingsWindow.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\App.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher_MarkupCompile.cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher_MarkupCompile.lref
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\ButtonLoader.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Controls\NewsTab.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\FancyBalloon.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\LoginDialog.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\NotifyIconResources.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Animation\AnimatedImageControl.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialogUpdate.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MainWindow.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialogReset.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Dialogs\PopupDialog.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\SettingsWindow.baml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.g.resources
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Mania.Launcher.Properties.Resources.resources
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\Mania.Launcher.csproj.GenerateResource.Cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.TrustInfo.xml
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.exe.manifest
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.application
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.exe
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\MapleStory Mania Launcher.pdb

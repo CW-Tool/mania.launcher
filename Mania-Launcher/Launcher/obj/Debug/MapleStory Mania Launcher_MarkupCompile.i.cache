@@ -1,0 +1,20 @@
+﻿MapleStory Mania Launcher
+
+
+winexe
+C#
+.cs
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\obj\Debug\
+Mania.Launcher
+none
+false
+DEBUG;TRACE
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Launcher\App.xaml
+191236010085
+
+69675094076
+181643161168
+Animation\ButtonLoader.xaml;Animation\LoaderSpinner.xaml;Controls\NewsTab.xaml;Controls\WelcomeBlock.xaml;Dialogs\FancyBalloon.xaml;LoginDialog.xaml;Dialogs\NotifyIconResources.xaml;Animation\AnimatedImageControl.xaml;Dialogs\PopupDialogUpdate.xaml;Controls\NewsRotator.xaml;MainWindow.xaml;Dialogs\PopupDialogReset.xaml;Dialogs\PopupDialog.xaml;Resources\Dictionaries\Tooltip.xaml;Resources\Dictionaries\Buttons.xaml;Resources\Dictionaries\Effects.xaml;Resources\Dictionaries\Progressbar.xaml;Resources\Dictionaries\Scroll.xaml;SettingsWindow.xaml;
+
+False
+

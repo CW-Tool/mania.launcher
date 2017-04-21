@@ -1,0 +1,9 @@
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\bin\Debug\Mania.UnitTests.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\bin\Debug\Mania.Utils.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\bin\Debug\Mania.Utils.pdb
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.dll
+C:\Users\felli\Desktop\Source Mania Launcher\Mania-Launcher\Mania.UnitTests\obj\Debug\Mania.UnitTests.pdb

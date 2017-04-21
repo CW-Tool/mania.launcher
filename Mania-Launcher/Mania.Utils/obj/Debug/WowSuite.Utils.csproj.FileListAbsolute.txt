@@ -1,0 +1,85 @@
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+C:\Users\Администратор\Source\Repos\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\PPALLAX LAUNCHER NEW VERS\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher_dev\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+C:\Users\sevag\Desktop\launcher_dev\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+C:\Users\sevag\Desktop\launcher_dev\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+C:\Users\sevag\Desktop\launcher_dev\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.dll
+C:\Users\sevag\Desktop\launcher_dev\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.pdb
+C:\Users\sevag\Desktop\launcher_dev\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+C:\Users\sevag\Desktop\launcher_dev\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+C:\Users\sevag\Desktop\launcher_dev\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.dll
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.pdb
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+C:\Users\Администратор\Desktop\launcher_PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\ProgressBar\ProgressBar.baml
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\ProgressBar\ProgressBar.g.cs
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils_MarkupCompile.cache
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.g.resources
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\bin\Debug\Mania.Constants.pdb
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\ProgressBar\ProgressBar.baml
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\ProgressBar\ProgressBar.g.cs
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils_MarkupCompile.cache
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.g.resources
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+C:\Users\Администратор.000\Desktop\Mania 3.0(New Design)\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\bin\Debug\Nostale.Utils.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\bin\Debug\Nostale.Utils.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\bin\Debug\Nostale.Constants.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\bin\Debug\Nostale.Constants.pdb
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\obj\Debug\ProgressBar\ProgressBar.baml
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\obj\Debug\ProgressBar\ProgressBar.g.cs
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\obj\Debug\Nostale.Utils_MarkupCompile.cache
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\obj\Debug\Nostale.Utils.g.resources
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\obj\Debug\Nostale.Utils.dll
+C:\Users\Администратор.000\Desktop\Nostale Project\wowsuite-launcher\Mania.Utils\obj\Debug\Nostale.Utils.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\bin\Debug\Mania.Utils.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\bin\Debug\Mania.Utils.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\bin\Debug\Mania.Constants.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\bin\Debug\Mania.Constants.pdb
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\obj\Debug\Mania.Utils.csprojResolveAssemblyReference.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\obj\Debug\ProgressBar\ProgressBar.baml
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\obj\Debug\ProgressBar\ProgressBar.g.cs
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\obj\Debug\Mania.Utils_MarkupCompile.cache
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\obj\Debug\Mania.Utils.g.resources
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\obj\Debug\Mania.Utils.dll
+C:\Users\felli\Desktop\Source nostale launcher\nostale-launcher\Mania.Utils\obj\Debug\Mania.Utils.pdb

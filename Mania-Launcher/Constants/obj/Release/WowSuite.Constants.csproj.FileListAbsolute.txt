@@ -1,0 +1,17 @@
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\bin\Release\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\bin\Release\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\obj\Release\Mania.Constants.dll
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\obj\Release\Mania.Constants.pdb
+D:\Мультимедиа\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\obj\Release\Mania.Constants.csprojResolveAssemblyReference.cache
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\bin\Release\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\bin\Release\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\obj\Release\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\launcher + PATCHER\Source\wowsuite-launcher\Constants\obj\Release\Mania.Constants.pdb
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Constants\bin\Release\Mania.Constants.dll
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Constants\bin\Release\Mania.Constants.pdb
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Constants\obj\Release\Mania.Constants.dll
+C:\Users\Администратор\Desktop\Source\wowsuite-launcher\Constants\obj\Release\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Constants\bin\Release\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Constants\bin\Release\Mania.Constants.pdb
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Constants\obj\Release\Mania.Constants.dll
+D:\Media\Мои проекты и исходники\Лаунчер\Launcher + MultiRealm\wowsuite-launcher\Constants\obj\Release\Mania.Constants.pdb

@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="Mania.Launcher.Animation.AnimatedImageControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:mimicPanel="clr-namespace:Mania.Launcher.Animation"
+             xmlns:uiElements="clr-namespace:Mania.Utils.News;assembly=Mania.Utils"
+             xmlns:uiElements1="clr-namespace:Mania.Launcher.Animation.UiElements;assembly=Mania.Utils"
+             d:DesignHeight="90"
+             d:DesignWidth="90"
+             mc:Ignorable="d">
+
+   <Grid>
+        <uiElements1:AnimatedArea x:Name="_animatedArea"
+                               Frames="{Binding Mode=OneWay,
+                                                Path=Frames,
+                                                RelativeSource={RelativeSource FindAncestor,
+                                                                               AncestorType={x:Type mimicPanel:AnimatedImageControl}}}" />
+
+    </Grid>
+</UserControl>

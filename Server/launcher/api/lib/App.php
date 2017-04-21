@@ -140,7 +140,7 @@ class App {
     }
 
     public function getHotNews(){
-        $db = $this->Connect(self::$_conf['icon_db']);
+        $db = $this->Connect(self::$_conf['news']);
         $hot_news = $db->select('hot_news','*' ,array('realms'=>'realm1', 'LIMIT'=>1));
 	        if($hot_news !== false and count($hot_news) > 0 and $hot_news[0]['message'] != ''){
             echo $hot_news[0]['message'];
@@ -150,7 +150,7 @@ class App {
     }
 
     public function getNews(){
-        $db = $this->Connect(self::$_conf['icon_db']);
+        $db = $this->Connect(self::$_conf['news']);
         $new = '';
         $news = $db->select('news_launcher','*' ,array('realms'=>'realm1', 'ORDER'=>'id DESC','LIMIT'=>4));
         if($news != false and count($news) > 0){
@@ -202,7 +202,7 @@ class App {
 	}
 
 	public function getNewsTab(){
-        $db = $this->Connect(self::$_conf['icon_db']);
+        $db = $this->Connect(self::$_conf['news']);
         $new = '';
         //$news = $db->select('news_launcher','*',array('ORDER'=>'id DESC','LIMIT'=>20));
 		$news = $db->select('news_launcher','*',array('ORDER'=>'id DESC'));
@@ -225,11 +225,5 @@ class App {
         }else{
             echo $this->XMLRender(array('NewsRoot','ExpressNews','NewsItem'),array('NewsTitle'=>'No news !'));
         }
-    }
-		
-    }
-	
-	
-	
-	
+    }	
 }

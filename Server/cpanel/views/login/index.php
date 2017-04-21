@@ -1,4 +1,4 @@
-<h1><img src="logo.png" width="252" height="80"/></h1>
+<h1><img src="logo.png" width="180" height="95"/></h1>
 <h1>Login</h1>
 
 

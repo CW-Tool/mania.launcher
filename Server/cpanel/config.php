@@ -1,13 +1,13 @@
 <?php
 
-define('URL', 'https://nostale.su/cpanel/');
+define('URL', 'http://127.0.0.1/cpanel/');
 define('LIBS', 'libs/');
 
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'u0237043_nostaleLauncher');
-define('DB_USER', '');  // СЮДА ЛОГИН
-define('DB_PASS', ''); // СЮДА ПАРОЛЬ
+define('DB_NAME', 'mania');
+define('DB_USER', 'root');  // СЮДА ЛОГИН
+define('DB_PASS', 'root'); // СЮДА ПАРОЛЬ
 
 // The sitewide hashkey, do not chaneg this because its used for passwords!
 // This is for other hash keys... Not sure yet

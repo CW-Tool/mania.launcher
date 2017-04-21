@@ -9,7 +9,7 @@ return array(
     'characters' => 'characters',
     'world' => 'world',
 
-	'news' => 'u0237043_nostaleLauncher', //Do not change ! Just create a database with the same name
-    'site_url' => 'https://nostale.su/',  //Do not forget to put a slash at the end of the address
+	'news' => 'mania', //Do not change ! Just create a database with the same name
+    'site_url' => 'http://localhost/',  //Do not forget to put a slash at the end of the address
 );
 

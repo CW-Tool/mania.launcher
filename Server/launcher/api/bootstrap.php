@@ -16,7 +16,7 @@ $get = isset($_GET['_url']) ? $_GET['_url'] : false;
 
 $api = \App::__Init();
 
-elseif($get === 'online'){
+if($get === 'online'){
     $api->getOnline();	
 }
 elseif($get === 'news'){

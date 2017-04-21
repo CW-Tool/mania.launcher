@@ -44,7 +44,7 @@ echo ($this->newsList[0]);
     <li>
         <label>Change Realm</label>
         <select name="realms" class="field-select">
-        <option value="realm1">Realm1</option>
+        <option value="realm1">realm1</option>
         <option value="realm2">Realm2</option>
         <option value="realm3">Realm3</option>
 		<option value="realm4">Realm4</option>

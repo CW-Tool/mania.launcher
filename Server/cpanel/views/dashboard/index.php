@@ -31,7 +31,7 @@
     <li>
         <label>Change Realm</label>
         <select name="realms" class="field-select">
-        <option value="realm1">Realm1</option>
+        <option value="realm1">realm1</option>
         </select>
     </li>
     <li>
@@ -52,7 +52,7 @@
     <li>
         <label>Change Realm</label>
         <select name="realms" class="field-select">
-        <option value="realm1">Realm1</option>
+        <option value="realm1">realm1</option>
         </select>
     </li>
     <li>

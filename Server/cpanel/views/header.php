@@ -6,8 +6,8 @@
 	<link rel="stylesheet" href="<?php echo URL; ?>public/css/zozo.style.min.css" />
 	<link rel="stylesheet" href="<?php echo URL; ?>public/css/zozo.tabs.min.css" />
 	<script type="text/javascript" src="<?php echo URL; ?>public/js/jquery.tabs.min.js"></script>
-	<script type="text/javascript" src="<?php echo URL; ?>public/js/jquery.min.js"></script>
 	<script type="text/javascript" src="<?php echo URL; ?>public/js/zozo.tabs.min.js"></script>
+	<script type="text/javascript" src="<?php echo URL; ?>public/js/custom.js"></script>
 	
 	<?php
 		if (isset($this->js)) 
